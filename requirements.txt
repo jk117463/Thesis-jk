@@ -7,4 +7,6 @@ seaborn
 matplotlib
 dash-bootstrap-components
 plotly-express
+sklearn
+datetime
 gunicorn
