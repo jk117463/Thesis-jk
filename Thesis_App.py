@@ -4,6 +4,7 @@ Created on Sun Sep 17 14:25:03 2023
 
 @author: jathi
 """
+import sklearn
 from datetime import datetime, timedelta
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor,GradientBoostingClassifier
