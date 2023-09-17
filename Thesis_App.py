@@ -188,6 +188,7 @@ tab3_content = dbc.Container(
 
 
 app = Dash(__name__, external_stylesheets = [dbc.themes.JOURNAL, dbc_css])
+server = app.server
 
 # Load the best classifier
 best_classifier = joblib.load('best_classifier.pkl')
