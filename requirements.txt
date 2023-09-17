@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+joblib
+seaborn
+matplotlib
+dash-bootstrap-components
+plotly-express
+gunicorn
